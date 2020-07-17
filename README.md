@@ -4,7 +4,7 @@ BU Microbiome Initiative GitHub Homepage
 Tools for BU members, by BU members
 
 # Repositories
-- [BU16s](https://github.com/Boston-University-Microbiome-Inititaive/BU16s): 16s processing pipeline
+- [BU16s](https://github.com/Boston-University-Microbiome-Inititaive/BU16s): 16s processing pipeline - no installation required (runs from the SCC).
 - [BUfqdump](https://github.com/Boston-University-Microbiome-Inititaive/BUfqdump): Given an NCBI bioproject, download all fastq files in parallel using the SCC
 
 # Contribution Guidelines
