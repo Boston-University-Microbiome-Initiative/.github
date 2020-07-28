@@ -1,4 +1,4 @@
-# Microiome-Initiative
+# Microbiome-Initiative
 BU Microbiome Initiative GitHub Homepage
 
 Tools for BU members, by BU members
