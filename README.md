@@ -10,7 +10,7 @@ Tools for BU members, by BU members
 - [BUpwdist](https://github.com/Boston-University-Microbiome-Initiative/BUpwdist): Multiprocess pairwise distance calculation with various metrics including unifrac.
 
 # Protocols
-
+- [Creating installation-free software on the SCC](https://github.com/Boston-University-Microbiome-Initiative/Microbiome-Initiative/wiki/Creating-installation-free-software-on-the-SCC)
 # Contribution Guidelines
 - Code should be created, forked, or transfered to the [BU microbiome initiaitve organization](https://github.com/Boston-University-Microbiome-Initiative/)
 - A link should be added above to `Repositories`
