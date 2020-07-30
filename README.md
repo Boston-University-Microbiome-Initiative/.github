@@ -3,6 +3,8 @@ BU Microbiome Initiative GitHub Homepage
 
 Tools for BU members, by BU members
 
+Reach out on the Slack channel for an invite to the organization.
+
 # Software
 - [BU16s](https://github.com/Boston-University-Microbiome-Initiative/BU16s): 16s processing pipeline - no installation required (runs from the SCC).
 - [BUpicrust](https://github.com/Boston-University-Microbiome-Initiative/BUpicrust): Implementation of PiCrust2 (no installation required)
